@@ -1,0 +1,88 @@
+{
+   padding: 0px;
+   margin: 0px;
+   font-family: "微软雅黑";
+}
+#header {
+    background-color:green;
+    color:white;
+    text-align:center;
+    padding:3%;
+   font-size: 40px;
+
+}
+.publish{
+
+}
+#goods{
+   width:100%;
+}
+
+.goditem{
+   list-style: none;
+}
+.godpic img{
+   display: block;
+   width:40%;
+   height: 40%;
+   margin:0%;
+}
+.godprice,.godinfo,.godadd{
+   display: block;
+   width:100%;
+   margin:0px auto;
+   text-align: center;
+}
+.godinfo table.lamp {
+  margin:0px auto;
+    width:100%;
+    height:70%;
+    border:1.5px solid green;
+
+
+}
+.godinfo table.lamp th, td {
+    padding:8px;
+}
+.godinfo table.lamp th {
+    width:40px;
+}
+.godprice{
+   font-size: 30px;
+   color: green;
+
+}
+.godinfo{
+   text-align: center;
+   width:100%;
+   height:50px;
+   font-size: 15px;
+   margin: 2% 2% 10% 2%;
+
+
+}
+
+.particulars{
+  float:right;
+
+}
+.godadd{
+   text-align: center;
+   width:100%;
+   height:50px;
+
+   margin: 20px 0px;
+
+   display: block;
+   width: 200px;
+   height: 50px;
+   background-color: #F5F5DC;
+   border-radius: 20px;
+   margin: 20px auto;
+   text-decoration: none;
+   color:green;
+   font-weight:bold;
+   font-size:40px;
+   line-height: 36px;
+   border:5px green double;
+}
